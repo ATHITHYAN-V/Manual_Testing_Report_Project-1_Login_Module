@@ -17,7 +17,7 @@ Bug_Report.xlsx: Details bug IDs, descriptions, severity, and status for issues 
 
 1).Download the repository:
 - git clone https://github.com/ATHITHYAN‑V/Manual_Testing_Report_Project‑1_Login_Module.git
-- 
+  
 2) Review the FRS document to understand functional requirements.
 
 3) Open Test Scenario and Test Cases spreadsheets to view manual test coverage.
